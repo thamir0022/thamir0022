@@ -1,5 +1,5 @@
 # Hey,👋 I'm Thamir😁
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thaxxmir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thamirsiddik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/thamirsiddik) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thaxxmir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thamirsiddik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thamirsiddik) 
 
 I’m a self-taught and passionate full-stack developer, as well as a creative problem-solver, here to build, break, and elevate the web—one line of code at a time. I’m all about creating scalable web apps, exploring new tech, and optimizing user experiences. When I’m not coding, you might find me experimenting with blockchain or diving into distributed systems (or maybe just meme-hunting 🕵️).
 
